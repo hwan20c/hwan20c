@@ -27,7 +27,7 @@ Language
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <br>
   
-FrontEnd Frameworks, Platforms and Libraries
+FrontEnd
   <br>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
@@ -36,7 +36,7 @@ FrontEnd Frameworks, Platforms and Libraries
     <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
   <br>
   
-BackEnd Frameworks, Platforms and Libraries
+BackEnd
   <br>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
@@ -45,7 +45,7 @@ BackEnd Frameworks, Platforms and Libraries
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   <br>
 
-Hybrid Frameworks, Platforms and Libraries
+Hybrid
   <br>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
