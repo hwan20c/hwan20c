@@ -52,17 +52,19 @@ BackEnd
     ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat)
     ![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=flat) 
     ![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=flat)
+    ![Apache Maven Badge](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=flat)
   <br>
 Hybrid
   <br>
     ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
     ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat)
   <br>
-Platform
+Data Platform
   <br>
     ![MQTT Badge](https://img.shields.io/badge/MQTT-606?logo=mqtt&logoColor=fff&style=flat)
     ![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
     ![Apache Flink Badge](https://img.shields.io/badge/Apache%20Flink-E6526F?logo=apacheflink&logoColor=fff&style=flat)
+    ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat)
   <br>
 Server & Etc Tool
   <br>
@@ -84,9 +86,9 @@ AWS
   <br>
 Orchestration
   <br>
-  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
-  <img src="https://img.shields.io/badge/Argocd-EF7B4D?&style=plastic&logo=Argo&logoColor=white">
+    ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+    ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+    <img src="https://img.shields.io/badge/Argocd-EF7B4D?&style=plastic&logo=Argo&logoColor=white">
     ![Helm Badge](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat)
     ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
   <br>
