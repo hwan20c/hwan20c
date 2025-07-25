@@ -80,6 +80,7 @@ AWS
   ![AWS Elastic Load Balancing Badge](https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-8C4FFF?logo=awselasticloadbalancing&logoColor=fff&style=flat)
   ![Amazon ElastiCache Badge](https://img.shields.io/badge/Amazon%20ElastiCache-C925D1?logo=amazonelasticache&logoColor=fff&style=flat)
   <img src="https://camo.githubusercontent.com/162f8754ea19326faf2e17a3d681b625de8d9990fb76bd8651539121c4b1bfb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4543522d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e7765627365727669636573266c6f676f436f6c6f723d7768697465">
+  ![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)
   <br>
 Orchestration
   <br>
@@ -91,9 +92,17 @@ Orchestration
   <br>
 IDE
   <br>
+    ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"> 
     ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
     ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat)
+  <br>
+AI
+  <br>
+    ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+    ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+    ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+    ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
   <br>
 Version Control
   <br>
@@ -104,6 +113,7 @@ Version Control
   <br>
 Etc Tool
   <br>
+    ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
     ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat) 
     ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
