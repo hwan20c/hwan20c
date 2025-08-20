@@ -12,6 +12,7 @@ Language
   <br>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
     <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">
