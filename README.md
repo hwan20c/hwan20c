@@ -70,6 +70,7 @@ Server & Etc Tool
     ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
     ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
     ![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat)
+    ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
   <br>
 AWS
   <br>
@@ -115,8 +116,9 @@ Version Control
 Etc Tool
   <br>
     ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
-    ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat) 
+    ![Asana](https://img.shields.io/badge/asana-F06A6A.svg?style=flat&logo=asana&logoColor=white)
     ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
+    ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat)
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
     ![Warp Badge](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff&style=flat)
     ![iTerm2 Badge](https://img.shields.io/badge/iTerm2-000?logo=iterm2&logoColor=fff&style=flat)
