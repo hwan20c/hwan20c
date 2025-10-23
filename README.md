@@ -1,4 +1,4 @@
-같이 일하면 즐거운 개발자가 되고싶습니다. 갑사합니다.
+Hoping to be a developer people enjoy working with. Thanks!
 
 ## 🔨 used a TechStack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
