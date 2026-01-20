@@ -85,7 +85,6 @@ AWS
   ![Amazon Route 53 Badge](https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?logo=amazonroute53&logoColor=fff&style=flat)
   ![AWS Elastic Load Balancing Badge](https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-8C4FFF?logo=awselasticloadbalancing&logoColor=fff&style=flat)
   ![Amazon ElastiCache Badge](https://img.shields.io/badge/Amazon%20ElastiCache-C925D1?logo=amazonelasticache&logoColor=fff&style=flat)
-  <img src="https://camo.githubusercontent.com/162f8754ea19326faf2e17a3d681b625de8d9990fb76bd8651539121c4b1bfb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4543522d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e7765627365727669636573266c6f676f436f6c6f723d7768697465">
   ![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)
   <br>
 Orchestration
