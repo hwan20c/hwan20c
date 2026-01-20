@@ -32,7 +32,6 @@ FrontEnd
   <br>
     ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
     ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-    <img src="https://camo.githubusercontent.com/c37ea5141da32fd1a98cb3c66e8134fc176dc1aef09ff76b5ed79de6c1449f49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5a757374616e642d4437304636343f7374796c653d666c61742d737175617265266c6f676f3d666f6f6470616e6461266c6f676f436f6c6f723d7768697465">
     ![React Query Badge](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat)
     ![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat)
     ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
