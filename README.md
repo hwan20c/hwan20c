@@ -67,6 +67,7 @@ Monitoring
   <br>
     ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&style=flat)
     ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white&style=flat)
+    <img src="https://img.shields.io/badge/lgtm-%23FFFFFF.svg?&style=flet&logo=lgtm&logoColor=black" />
   <br>
 Server & Etc Tool
   <br>
@@ -94,6 +95,7 @@ Orchestration
     <img src="https://img.shields.io/badge/Argocd-EF7B4D?&style=plastic&logo=Argo&logoColor=white">
     ![Helm Badge](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat)
     ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
+    <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?&style=flat&logo=github%20actions&logoColor=white" />
   <br>
 IDE
   <br>
